@@ -1,0 +1,72 @@
+
+                        <!-- Portfolio Grid Items-->
+                        <div class="row">
+                            <!-- Portfolio Item 1-->
+                            <div class="col-md-6 col-lg-4 mb-5 " class="portfoliodiv" >
+                                <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal1">
+                                    <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                        <div class="portfolio-item-caption-content text-center text-white"> WordPress Business Website </div>
+                                    </div>
+                                    <a href="#" target="_blank"><img class="img-fluid" src="assets/img/portfolio/portfolio-1.png" alt="" /></a>
+                                    <a href="https://gadgetbees.co.uk/" class="portfolioalink"target="_blank"> 
+                                        <i class="fas fa-angle-double-right"></i> See Live Site</a>
+                                </div>
+                            </div>
+
+                            <!-- Portfolio Item 2-->
+                            <div class="col-md-6 col-lg-4 mb-5 " class="portfoliodiv" >
+                                <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal1">
+                                    <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                        <div class="portfolio-item-caption-content text-center text-white">Book Publishing Website 
+                                            </div>
+                                    </div>
+                                    <a href="#" target="_blank"><img class="img-fluid" src="assets/img/portfolio/Portfolio-2.png" alt="" /></a>
+                                    <a href="https://www.publicare.world" class="portfolioalink"target="_blank"><i class="fas fa-angle-double-right"></i> See Live Site</a>
+                                </div>
+                            </div>
+
+                            <!-- Portfolio Item 3-->
+                            <div class="col-md-6 col-lg-4 mb-5 " class="portfoliodiv" >
+                                <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal1">
+                                    <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                        <div class="portfolio-item-caption-content text-center text-white">WordPress Ecommerce Website</div>
+                                    </div>
+                                    <a href="#" target="_blank"><img class="img-fluid" src="assets/img/portfolio/protfolio-3.png" alt="" /></a>
+                                    <a href="https://plasticstripcurtain.com/" class="portfolioalink"target="_blank"><i class="fas fa-angle-double-right"></i> See Live Site</a>
+                                </div>
+                            </div>
+
+                            <!-- Portfolio Item 4-->
+                            <div class="col-md-6 col-lg-4 mb-5 " class="portfoliodiv" >
+                                <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal1">
+                                    <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                        <div class="portfolio-item-caption-content text-center text-white">WordPress Ecommerce Website</div>
+                                    </div>
+                                    <a href="#" target="_blank"><img class="img-fluid" src="assets/img/portfolio/portfolio-4.png" alt="" /></a>
+                                    <a href="https://cheapsignsfast.biz/" class="portfolioalink"target="_blank"><i class="fas fa-angle-double-right"></i> See Live Site</a>
+                                </div>
+                            </div>
+
+                            <!-- Portfolio Item 5-->
+                            <div class="col-md-6 col-lg-4 mb-5 " class="portfoliodiv" >
+                                <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal1">
+                                    <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                        <div class="portfolio-item-caption-content text-center text-white"> WordPress Educational Website</div>
+                                    </div>
+                                    <a href="#" target="_blank"><img class="img-fluid" src="assets/img/portfolio/portfolio-5.png" alt="" /></a>
+                                    <a href="http://geb.du.ac.bd/" class="portfolioalink"target="_blank"> <i class="fas fa-angle-double-right"></i> See Live Site</a>
+                                </div>
+                            </div>
+
+                            <!-- Portfolio Item 6-->
+                            <div class="col-md-6 col-lg-4 mb-5 " class="portfoliodiv" >
+                                <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal1">
+                                    <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                        <div class="portfolio-item-caption-content text-center text-white">WordPress Coaching Website</div>
+                                    </div>
+                                    <a href="#" target="_blank"><img class="img-fluid" src="assets/img/portfolio/portfolio-6.png" alt="" /></a>
+                                    <a href="https://letsrezone.com/" class="portfolioalink"target="_blank"><i class="fas fa-angle-double-right"></i> See Live Site</a>
+                                </div>
+                            </div>
+
+                        </div><!----End Portfolio------>

@@ -1,0 +1,124 @@
+<div class="row">
+                            <div class="col-md-6 col-lg-3 mb-5 col-md-offset-6">
+                               <a href="https://www.fiverr.com/r1codingmaster" class="btn btn-primary" target="_blank">FIVERR PROFILE</a>
+                                
+                            </div>
+                            <div class="col-md-6 col-lg-3 mb-5">
+                                
+                                 <a href="https://www.upwork.com/freelancers/~0127c58fda9998b1fa" class="btn btn-secondary" target="_blank">
+                                    UPWORK PROFILE</a>
+                             </div>
+                             
+                        </div>
+                    
+                    </div>
+
+                    <!---FAQ-->
+                        <div class="row">
+                            <div class="col-12 mx-auto">
+                                <div class="accordion" id="faqExample">
+                                    <div class="card">
+                                        <div class="card-header p-2" id="headingOne">
+                                            <h5 class="mb-0">
+                                                <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" 
+                                                aria-controls="collapseOne">
+                                                    <i class="fas fa-plus"></i>&nbsp; What does it need to get started?
+                                                </button>
+                                              </h5>
+                                        </div>
+                    
+                                        <div id="collapseOne" class="collapse " aria-labelledby="headingOne" data-parent="#faqExample">
+                                            <div class="card-body">
+                                                <b><i class="fas fa-minus"></i></b> First, You must  have a <b>Domain Name</b> and <b>Hosting </b> (Minimum 1 GB). 
+                                                If you don't have contact me I will help you. You can contact me via <a href="https://www.upwork.com/freelancers/~0127c58fda9998b1fa" class="btn btn-secondary" target="_blank">
+                                                    UPWORK PROFILE</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card">
+                                        <div class="card-header p-2" id="headingTwo">
+                                            <h5 class="mb-0">
+                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                                <i class="fas fa-plus"></i>&nbsp; How can I get a custom quote for my project?
+                                            </button>
+                                          </h5>
+                                        </div>
+                                        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#faqExample">
+                                            <div class="card-body">
+                                                <b><i class="fas fa-minus"></i></b> Please fill up this <a href="https://forms.gle/xBYXKmcfiN7RWigM8" target="_blank"><b>Google Form</b></a> with your required details. 
+                                                I will be in touch with you within 1 to 3 hours and subsequently  will setup a meeting with you and discuss about your 
+                                                project in details.  
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card">
+                                        <div class="card-header p-2" id="headingThree">
+                                            <h5 class="mb-0">
+                                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                                    <i class="fas fa-plus"></i>&nbsp; What kind of website you develop?
+                                                </button>
+                                              </h5>
+                                        </div>
+                                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#faqExample">
+                                            <div class="card-body">
+                                                <b><i class="fas fa-minus"></i></b>  Business Website</br>
+                                                <b><i class="fas fa-minus"></i></b>  Ecommerce or Online Store Website</br>
+                                                <b><i class="fas fa-minus"></i></b>  Educational Website</br>
+                                                <b><i class="fas fa-minus"></i></b>  Restaurants  Website</br>
+                                                <b><i class="fas fa-minus"></i></b>  Blog Website</br> 
+                                                <b><i class="fas fa-minus"></i></b>  Many More......
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="card">
+                                        <div class="card-header p-2" id="headingFour">
+                                            <h5 class="mb-0">
+                                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                                    <i class="fas fa-plus"></i>&nbsp; Would you provide any support after the project completion and what will be the cost?
+                                                </button>
+                                              </h5>
+                                        </div>
+                                        <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#faqExample">
+                                            <div class="card-body">
+                                                <b><i class="fas fa-minus"></i></b> Definitely you will get 1 month free support. After one month I will charge for website 
+                                                update and maintenance.
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="card">
+                                    <div class="card-header p-2" id="headingFive">
+                                        <h5 class="mb-0">
+                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                                <i class="fas fa-plus"></i>&nbsp; What is your general charge for one full website development?
+                                            </button>
+                                          </h5>
+                                    </div>
+                                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#faqExample">
+                                        <div class="card-body">
+                                            <b><i class="fas fa-minus"></i></b> It can vary. Depends on your project requirements. I can assure you that there will be 
+                                            fair negotiation according to your project budget and requirements. 
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="card">
+                                    <div class="card-header p-2" id="headingSix">
+                                        <h5 class="mb-0">
+                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                                <i class="fas fa-plus"></i>&nbsp; Why WordPress?
+                                            </button>
+                                          </h5>
+                                    </div>
+                                    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#faqExample">
+                                        <div class="card-body">
+                                            <b><i class="fas fa-minus"></i></b> I can develop any business website in WordPress. I usually prefer to work in WordPress, 
+                                            because WordPress is the most prominent "Content Management System (CMS)" in world and along with multidisciplinary features and 
+                                            thousand of plugin already developed. Therefore, WordPress is the best CMS for website development. I also can develop 
+                                            online store with WooCommerce with integration all the latest features. 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
